@@ -1,7 +1,6 @@
 {
   "codeOwners": [
-    "0xfb0973D517DcE0e39828018e1c415BC55826FBDC"
+    "0x28f00f0608daec06d756fd2e1cb8f1b7d49b85d9"
   ],
-  "quorum": 1,
-  "projectName": "nestjs-api-tutorial"
+  "quorum": 1
 }
